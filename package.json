@@ -1,5 +1,5 @@
 {
-  "name": "@test_npm_ci/yaki_ui_npm_test",
+  "name": "@LaurentMag/test_npm_ci",
   "version": "1.0.0",
   "description": "Test npm package for yaki_ui",
   "publishConfig": {
@@ -7,6 +7,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LaurentMag/test_npm_ci"
+    "url": "git+https://github.com/LaurentMag/test_npm_ci.git"
   }
 }
