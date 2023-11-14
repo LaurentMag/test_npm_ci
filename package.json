@@ -1,6 +1,6 @@
 {
   "name": "@LaurentMag/test_npm_ci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test npm package for yaki_ui",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
